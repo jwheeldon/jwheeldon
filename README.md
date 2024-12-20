@@ -12,7 +12,7 @@
 `R` `Python` `SQL` `Bash`
 
 **Other technologies:**\
-`Docker` `Git`
+`Docker` `Git` `PyTorch` `TensorFlow`
 
 <!--
 **jwheeldon/jwheeldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
