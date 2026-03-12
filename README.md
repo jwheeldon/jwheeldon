@@ -1,11 +1,11 @@
 ### Hi there 👋
 **About me**:\
-🔬 I’m currently working on problems in drug discovery & protein engineering.\
+🔬 I’m currently working on problems in vaccines medical evidence generation.\
 🌱 I’m currently learning new methods in machine learning and AI.
 
 **My background:**\
-💼 Bioinformatician @ Sanofi\
-🎓 PhD Systems Immunology @ Cardiff University\
+💼 Real World Evidence @ Sanofi\
+🎓 PhD Immunology/Bioinformatics
 📍 United Kingdom
 
 **My languages:**\
